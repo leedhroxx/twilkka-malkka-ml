@@ -1,4 +1,4 @@
-# twilkka-malkka-ml
+# 튈까말까 OTT 고객 이탈률 EDA 및 머신러닝
 
 기업 데이터 기반 EDA → 피처 엔지니어링 → ML/DL 모델링 → 예측/평가
 
