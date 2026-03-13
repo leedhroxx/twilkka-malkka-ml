@@ -65,7 +65,6 @@ project/
 │  ├─ 02_make_dataset.py      # 전처리 파이프라인 실행(raw→interim/processed 생성)
 │  ├─ 03_build_features.py    # 피처 생성 실행(모델 입력 특성 테이블 생성/갱신)
 │  ├─ 04_train.py             # 학습 실행(모델 학습 + 평가 + 아티팩트 저장)
-│  └─ 05_infer.py             # 추론 실행(새 데이터 예측 + 결과 저장/리포트)
 │
 ├─ 04_configs/                # 설정 파일(yaml 등). 경로/파라미터/모델 옵션을 코드와 분리
 │
